@@ -2,7 +2,7 @@
 A website for a wedding company that specializes elegant and beautiful weddings. It consists of common multiple pages of a website.
 
 ## Images
-This repository contains a collection of high-quality images from [Pexels](https://pexels.com/).
+This repository contains a collection of high-quality images from [Pexels](https://pexels.com/) and [Unsplash](https://unsplash.com/).
 
 ## Typography
 External fonts were imported from [Google Fonts](https://fonts.google.com/). The fonts used are Euphoria Script and Montserrat.
@@ -20,3 +20,5 @@ Secondary Color (#011638): This is a darker blue color that is used for secondar
 Accent Color (#eec643): This is a saffron color that is used for call-to-action buttons and other important elements that require immediate attention.
 
 Background Color (#eef0f2): This is an anti-flash white color that is used as the background color for the repository.
+
+
