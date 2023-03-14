@@ -1,6 +1,11 @@
 # J-Weddings
 A website for a wedding company that specializes elegant and beautiful weddings. It consists of common multiple pages of a website.
 
+## Wireframes
+The wireframes contained in this repository are intended to provide an early-stage visualization of the project's user interface design. They are not final designs, and are subject to change as the project progresses.
+
+The wireframes were created using [Figma](https://figma.com/). They include basic elements such as navigation menus, buttons, forms, and placeholders for images and text. They do not include detailed styling or graphics.
+
 ## Images
 This repository contains a collection of high-quality images from [Pexels](https://pexels.com/) and [Unsplash](https://unsplash.com/).
 
