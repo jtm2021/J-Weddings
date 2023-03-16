@@ -6,6 +6,23 @@ The wireframes contained in this repository are intended to provide an early-sta
 
 The wireframes were created using [Figma](https://figma.com/). They include basic elements such as navigation menus, buttons, forms, and placeholders for images and text. They do not include detailed styling or graphics.
 
+<details><summary>Click To See Desktop Wireframe</summary>
+
+![Desktop Wireframe](# "Desktop")
+
+</details>
+
+<details><summary>Click To See Tablets Wireframe</summary>
+
+![Tablet Wireframe](# "Tablets")
+
+</details>
+<details><summary>Click To See Phones Wireframe</summary>
+
+![Phones Wireframe](# "Phones")
+
+</details>
+
 ## Images
 This repository contains a collection of high-quality images from [Pexels](https://pexels.com/) and [Unsplash](https://unsplash.com/).
 
