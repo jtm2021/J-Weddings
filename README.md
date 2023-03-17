@@ -1,5 +1,5 @@
 # J-Weddings
-A website for a wedding company that specializes elegant and beautiful weddings. It consists of common multiple pages of a website.
+A website for a wedding company that specializes elegant and beautiful weddings. It consists of common multiple pages of a website. It is a responsive website that is compatible with all devices. It is built using HTML, CSS, JavaScript, and Bootstrap.
 
 ## Wireframes
 The wireframes contained in this repository are intended to provide an early-stage visualization of the project's user interface design. They are not final designs, and are subject to change as the project progresses.
