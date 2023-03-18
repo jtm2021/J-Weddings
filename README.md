@@ -8,18 +8,18 @@ The wireframes were created using [Figma](https://figma.com/). They include basi
 
 <details><summary>Click To See Desktop Wireframe</summary>
 
-![Desktop Wireframe](# "Desktop")
+![Desktop Wireframe](#)
 
 </details>
 
 <details><summary>Click To See Tablets Wireframe</summary>
 
-![Tablet Wireframe](# "Tablets")
+![Tablet Wireframe](#)
 
 </details>
 <details><summary>Click To See Phones Wireframe</summary>
 
-![Phones Wireframe](# "Phones")
+![Phones Wireframe](#)
 
 </details>
 
