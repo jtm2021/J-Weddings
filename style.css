@@ -1,9 +1,6 @@
-.navbar {
-    background-color: transparent;
-}
-
 .navbar img {
     max-height: 30px;
+    filter: invert(99%) sepia(0%) saturate(125%) hue-rotate(124deg) brightness(117%) contrast(100%);
 }
 
 .hero {
@@ -12,4 +9,10 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
 }
