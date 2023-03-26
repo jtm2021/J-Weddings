@@ -17,3 +17,8 @@
     border-radius: 10px;
 }
 
+.intro {
+    /* outline: 1px solid #fff; */
+    background: rgb(255, 255, 255);
+    background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.022846638655462215) 50%, rgba(205, 247, 255, 0.0844712885154062) 100%);
+}
