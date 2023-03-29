@@ -24,7 +24,7 @@ The wireframes were created using [Figma](https://figma.com/). They include basi
 </details>
 
 ## Images
-This repository contains a collection of high-quality images from [Pexels](https://pexels.com/) and [Unsplash](https://unsplash.com/).
+This repository contains a collection of high-quality images from [Unsplash](https://unsplash.com/).
 
 ## Typography
 External fonts were imported from [Google Fonts](https://fonts.google.com/). The fonts used are Euphoria Script and Montserrat.
