@@ -27,7 +27,7 @@ The wireframes were created using [Figma](https://figma.com/). They include basi
 This repository contains a collection of high-quality images from [Unsplash](https://unsplash.com/).
 
 ## Typography
-External fonts were imported from [Google Fonts](https://fonts.google.com/). The fonts used are Euphoria Script and Montserrat.
+The fonts used in this project is the default font of Bootstrap. It is a sans-serif font that is used for headings and subheadings. It is a clean and simple font that is easy to read and understand.
 
 ##Color Scheme
 This repository follows a specific color scheme to maintain consistency and improve visual appeal across all its components. The color scheme is used to differentiate different elements in the repository and to create a visual hierarchy for easy navigation and understanding.
