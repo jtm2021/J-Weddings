@@ -35,12 +35,4 @@ This repository follows a specific color scheme to maintain consistency and impr
 Colors Used
 The color scheme comprises four primary colors, which are used throughout the repository.
 
-Primary Color (#0d21a1): This is the primary color used in the repository. It is a bright blue color that is used for headings, links, and other important elements that need to stand out.
-
-Secondary Color (#011638): This is a darker blue color that is used for secondary elements such as subheadings and captions.
-
-Accent Color (#eec643): This is a saffron color that is used for call-to-action buttons and other important elements that require immediate attention.
-
-Background Color (#eef0f2): This is an anti-flash white color that is used as the background color for the repository.
-
 
