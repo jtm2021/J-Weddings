@@ -24,7 +24,7 @@ The wireframes were created using [Figma](https://figma.com/). They include basi
 </details>
 
 ## Images
-This repository contains a collection of high-quality images from [Unsplash](https://unsplash.com/).
+This repository contains a collection of high-quality images from [Unsplash](https://unsplash.com/). Images were optimized using [TinyPNG](https://tinypng.com/).
 
 ## Typography
 The fonts used in this project is the default font of Bootstrap. It is a sans-serif font that is used for headings and subheadings. It is a clean and simple font that is easy to read and understand.
