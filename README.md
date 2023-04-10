@@ -1,5 +1,5 @@
 # J-Weddings
-A website for a wedding company that specializes elegant and beautiful weddings. It consists of common multiple pages of a website. It is a responsive website that is compatible with all devices. It is built using HTML, CSS, JavaScript, and Bootstrap.
+A website for a wedding company that specializes elegant and beautiful weddings. It is a responsive website that is compatible with all devices. It is built using HTML, CSS, JavaScript, and Bootstrap.
 
 ## Wireframes
 The wireframes contained in this repository are intended to provide an early-stage visualization of the project's user interface design. They are not final designs, and are subject to change as the project progresses.
@@ -24,7 +24,7 @@ The wireframes were created using [Figma](https://figma.com/). They include basi
 </details>
 
 ## Images
-This repository contains a collection of high-quality images from [Unsplash](https://unsplash.com/).
+This repository contains a collection of high-quality images from [Unsplash](https://unsplash.com/). Images were optimized using [TinyPNG](https://tinypng.com/).
 
 ## Typography
 The fonts used in this project is the default font of Bootstrap. It is a sans-serif font that is used for headings and subheadings. It is a clean and simple font that is easy to read and understand.
