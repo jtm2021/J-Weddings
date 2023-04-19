@@ -1,6 +1,8 @@
 # J-Weddings
 A website for a wedding company that specializes elegant and beautiful weddings. It is a responsive website that is compatible with all devices. It is built using HTML, CSS, JavaScript, and Bootstrap.
 
+The link to the live website is [here](https://jweddings.online/).
+
 ## Wireframes
 The wireframes contained in this repository are intended to provide an early-stage visualization of the project's user interface design. They are not final designs, and are subject to change as the project progresses.
 
